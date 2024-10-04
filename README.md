@@ -22,9 +22,6 @@ Deployment: Deploy the trained model into a production environment, integrating 
 Monitoring: Monitor model performance and retrain/update the model as needed to maintain accuracy and effectiveness.
 Dependencies:
 
-Python
-Machine Learning Libraries (e.g., scikit-learn, TensorFlow, PyTorch)
-Data Visualization Libraries (e.g., Matplotlib, Seaborn)
-Web Development Frameworks (optional, for deployment)
-Contributing:
-Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request or open an issue on the project repository.
+
+
+
